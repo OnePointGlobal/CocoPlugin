@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Publisher="OnePoint Global" Id="63c2b4b8-8a51-4fc4-b8ed-0b49e24146c3" Version="1.0.0.0" Language="en-US" />
         <DisplayName>CocoPlugin</DisplayName>
-        <Description xml:space="preserve" >This plugin enables the use of Coco/R inside Visual Studio 2015</Description>
+        <Description xml:space="preserve" >This plugin enables the use of Coco/R inside Visual Studio 2019</Description>
         <MoreInfo>http://www.ssw.jku.at/coco/</MoreInfo>
         <License>license.txt</License>
         <Icon>Resources\Package.ico</Icon>
